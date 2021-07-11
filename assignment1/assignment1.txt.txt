@@ -1,3 +1,0 @@
-data
-assignt 1 
-git init..........
